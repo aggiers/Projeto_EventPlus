@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 namespace ProjetoEvent_.Domains
 {
     [Table("Eventos")]
-    public class Eventos
+    public class Evento
     {
         [Key]
         public Guid IdEvento { get; set; }
@@ -26,19 +26,19 @@ namespace ProjetoEvent_.Domains
         // referencia tabela tipos usuario
 
         [Required(ErrorMessage = "O nome do usuário é obrigatório!")]
-        public Guid IdTiposUsuario { get; set; }
+        public Guid IdTipoUsuario { get; set; }
 
-        [ForeignKey("IdTiposUsuario")]
-        public TiposEventos ? TiposEventos { get; set; }
+        [ForeignKey("IdTipoUsuario")]
+        public TipoUsuario ? TipoUsuario { get; set; }
 
 
         // referencia tabela tipos evento
 
         [Required(ErrorMessage = "O tipo do evento é obrigatório!")]
-        public Guid IdTiposEvento { get; set; }
+        public Guid IdTipoEvento { get; set; }
 
-        [ForeignKey("IdInstituicao")]
-        public Instituicoes? Instituicoes { get; set; }
+        [ForeignKey("IdTipoEvento")]
+        public TipoEvento? TipoEvento { get; set; }
 
     }
 }

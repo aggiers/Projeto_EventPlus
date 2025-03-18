@@ -7,7 +7,7 @@ namespace ProjetoEvent_.Domains
 {
     [Table("Usuarios")]
     [Index(nameof(Email), IsUnique = true)]
-    public class Usuarios
+    public class Usuario
     {
         [Key]
         public Guid IdUsuario { get; set; }
@@ -27,9 +27,9 @@ namespace ProjetoEvent_.Domains
 
 
         [Required(ErrorMessage = "O tipo do usuário é obrigatório!")]
-        public Guid IdTiposUsuarios { get; set; }
+        public Guid IdTipoUsuario { get; set; }
 
-        [ForeignKey("IdTiposUsuario")]
-        public TiposUsuarios? TiposUsuarios { get; set; }
+        [ForeignKey("IdTipoUsuario")]
+        public TipoUsuario? TipoUsuario { get; set; }
     }
 }

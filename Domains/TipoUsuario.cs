@@ -3,11 +3,11 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ProjetoEvent_.Domains
 {
-    [Table("TiposUsuarios")]
-    public class TiposUsuarios
+    [Table("TipoUsuarios")]
+    public class TipoUsuario
     {
         [Key]
-        public Guid IdTiposUsuario { get; set; }
+        public Guid IdTipoUsuario { get; set; }
 
         [Column(TypeName = "VARCHAR(50)")]
         [Required(ErrorMessage = "O tipo do usuário é obrigatório!")]

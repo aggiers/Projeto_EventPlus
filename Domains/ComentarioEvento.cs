@@ -3,11 +3,11 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ProjetoEvent_.Domains
 {
-    [Table("ComentariosEventos")]
-    public class ComentariosEventos
+    [Table("ComentarioEventos")]
+    public class ComentarioEvento
     {
         [Key]
-        public Guid IdComnetarioEvento { get; set; }
+        public Guid IdComentarioEvento { get; set; }
 
         [Column(TypeName = "VARCHAR(100)")]
         [Required(ErrorMessage = "A Descrição do comentário é obrigatória!")]
@@ -20,19 +20,15 @@ namespace ProjetoEvent_.Domains
 
         // referencia tabela usuario
 
-        [Required(ErrorMessage = "O nome do usuário é obrigatório!")]
-        public Guid IdUsuario { get; set; }
-
+        public Guid ?IdUsuario { get; set; }
         [ForeignKey("IdUsuario")]
-        public Usuarios? Usuarios { get; set; }
+        public Usuario? Usuario { get; set; }
 
 
         // referencia tabela evento
 
-        [Required(ErrorMessage = "O nome do evento é obrigatório!")]
-        public Guid IdEvento { get; set; }
-
+        public Guid ? IdEvento { get; set; }
         [ForeignKey("IdEvento")]
-        public Eventos? Eventos { get; set; }
+        public Evento ? Evento { get; set; }
     }
 }

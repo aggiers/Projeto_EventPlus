@@ -3,40 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\domains\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|solutionrelative:domains\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\interfaces\\ipresencarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|solutionrelative:interfaces\\ipresencarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\domains\\tiposusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|solutionrelative:domains\\tiposusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\repositorios\\tipousuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|solutionrelative:repositorios\\tipousuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\domains\\tiposeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|solutionrelative:domains\\tiposeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\repositorios\\tipoeventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|solutionrelative:repositorios\\tipoeventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\domains\\presencaseventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|solutionrelative:domains\\presencaseventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|solutionrelative:interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\domains\\comentarioseventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|solutionrelative:domains\\comentarioseventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\domains\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|solutionrelative:domains\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\domains\\eventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|solutionrelative:domains\\eventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\controllers\\tipoeventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|solutionrelative:controllers\\tipoeventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\domains\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|solutionrelative:domains\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\domains\\comentarioevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|solutionrelative:domains\\comentarioevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\domains\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|solutionrelative:domains\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\interfaces\\itipoeventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|solutionrelative:interfaces\\itipoeventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\interfaces\\itipousuariorepositoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|solutionrelative:interfaces\\itipousuariorepositoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\interfaces\\ieventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|solutionrelative:interfaces\\ieventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\interfaces\\icomentarioeventosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|solutionrelative:interfaces\\icomentarioeventosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\domains\\tipoevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|solutionrelative:domains\\tipoevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\domains\\presenca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|solutionrelative:domains\\presenca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\domains\\instituicoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|solutionrelative:domains\\instituicoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\context\\eventplus_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|solutionrelative:context\\eventplus_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\projetoevent\u002B.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|solutionrelative:projetoevent\u002B.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5033CE35-B7B1-484F-A99F-C274798DD10B}|ProjetoEvent\u002B.csproj|c:\\users\\47688244803\\desktop\\projetoevent\u002B\\projetoevent\u002B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +78,219 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipoUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Repositorios\\TipoUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Repositorios\\TipoUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Repositorios\\TipoUsuarioRepository.cs",
+              "RelativeToolTip": "Repositorios\\TipoUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:18:17.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domains\\Usuario.cs",
+              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\Usuario.cs",
+              "RelativeToolTip": "Domains\\Usuario.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:17:05.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TipoEventoController.cs",
+              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Controllers\\TipoEventoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TipoEventoController.cs",
+              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Controllers\\TipoEventoController.cs",
+              "RelativeToolTip": "Controllers\\TipoEventoController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwFsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:46:40.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ComentarioEvento.cs",
+              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\ComentarioEvento.cs",
+              "RelativeDocumentMoniker": "Domains\\ComentarioEvento.cs",
+              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\ComentarioEvento.cs",
+              "RelativeToolTip": "Domains\\ComentarioEvento.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:44:43.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TipoEventoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Repositorios\\TipoEventoRepository.cs",
+              "RelativeDocumentMoniker": "Repositorios\\TipoEventoRepository.cs",
+              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Repositorios\\TipoEventoRepository.cs",
+              "RelativeToolTip": "Repositorios\\TipoEventoRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwEcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:39:39.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IComentarioEventosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Interfaces\\IComentarioEventosRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IComentarioEventosRepository.cs",
+              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Interfaces\\IComentarioEventosRepository.cs",
+              "RelativeToolTip": "Interfaces\\IComentarioEventosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:06:15.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:06:12.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITipoUsuarioRepositoy.cs",
+              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Interfaces\\ITipoUsuarioRepositoy.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITipoUsuarioRepositoy.cs",
+              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Interfaces\\ITipoUsuarioRepositoy.cs",
+              "RelativeToolTip": "Interfaces\\ITipoUsuarioRepositoy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:05:49.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "ITipoEventoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Interfaces\\ITipoEventoRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITipoEventoRepository.cs",
+              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Interfaces\\ITipoEventoRepository.cs",
+              "RelativeToolTip": "Interfaces\\ITipoEventoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:05:28.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPresencaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Interfaces\\IPresencaRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPresencaRepository.cs",
+              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Interfaces\\IPresencaRepository.cs",
+              "RelativeToolTip": "Interfaces\\IPresencaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:05:04.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEventoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Interfaces\\IEventoRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEventoRepository.cs",
+              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Interfaces\\IEventoRepository.cs",
+              "RelativeToolTip": "Interfaces\\IEventoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:00:10.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TipoUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\TipoUsuario.cs",
+              "RelativeDocumentMoniker": "Domains\\TipoUsuario.cs",
+              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\TipoUsuario.cs",
+              "RelativeToolTip": "Domains\\TipoUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:58:55.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Presenca.cs",
+              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\Presenca.cs",
+              "RelativeDocumentMoniker": "Domains\\Presenca.cs",
+              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\Presenca.cs",
+              "RelativeToolTip": "Domains\\Presenca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:58:49.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TipoEvento.cs",
+              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\TipoEvento.cs",
+              "RelativeDocumentMoniker": "Domains\\TipoEvento.cs",
+              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\TipoEvento.cs",
+              "RelativeToolTip": "Domains\\TipoEvento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:58:48.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Instituicoes.cs",
+              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\Instituicoes.cs",
+              "RelativeDocumentMoniker": "Domains\\Instituicoes.cs",
+              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\Instituicoes.cs",
+              "RelativeToolTip": "Domains\\Instituicoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:58:46.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\Evento.cs",
+              "RelativeDocumentMoniker": "Domains\\Evento.cs",
+              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\Evento.cs",
+              "RelativeToolTip": "Domains\\Evento.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:58:28.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -63,123 +299,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T14:55:00.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EventPlus_Context.cs",
-              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Context\\EventPlus_Context.cs",
-              "RelativeDocumentMoniker": "Context\\EventPlus_Context.cs",
-              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Context\\EventPlus_Context.cs",
-              "RelativeToolTip": "Context\\EventPlus_Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T12:42:05.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\Usuarios.cs",
-              "RelativeDocumentMoniker": "Domains\\Usuarios.cs",
-              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\Usuarios.cs",
-              "RelativeToolTip": "Domains\\Usuarios.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:55:58.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PresencasEventos.cs",
-              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\PresencasEventos.cs",
-              "RelativeDocumentMoniker": "Domains\\PresencasEventos.cs",
-              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\PresencasEventos.cs",
-              "RelativeToolTip": "Domains\\PresencasEventos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:42:09.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ComentariosEventos.cs",
-              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\ComentariosEventos.cs",
-              "RelativeDocumentMoniker": "Domains\\ComentariosEventos.cs",
-              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\ComentariosEventos.cs",
-              "RelativeToolTip": "Domains\\ComentariosEventos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:41:38.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Instituicoes.cs",
-              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\Instituicoes.cs",
-              "RelativeDocumentMoniker": "Domains\\Instituicoes.cs",
-              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\Instituicoes.cs",
-              "RelativeToolTip": "Domains\\Instituicoes.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:40:15.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TiposEventos.cs",
-              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\TiposEventos.cs",
-              "RelativeDocumentMoniker": "Domains\\TiposEventos.cs",
-              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\TiposEventos.cs",
-              "RelativeToolTip": "Domains\\TiposEventos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:39:41.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Eventos.cs",
-              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\Eventos.cs",
-              "RelativeDocumentMoniker": "Domains\\Eventos.cs",
-              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\Eventos.cs",
-              "RelativeToolTip": "Domains\\Eventos.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:39:25.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TiposUsuarios.cs",
-              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\TiposUsuarios.cs",
-              "RelativeDocumentMoniker": "Domains\\TiposUsuarios.cs",
-              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\Domains\\TiposUsuarios.cs",
-              "RelativeToolTip": "Domains\\TiposUsuarios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:38:58.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProjetoEvent\u002B.csproj",
-              "DocumentMoniker": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\ProjetoEvent\u002B.csproj",
-              "RelativeDocumentMoniker": "ProjetoEvent\u002B.csproj",
-              "ToolTip": "C:\\Users\\47688244803\\Desktop\\ProjetoEvent\u002B\\ProjetoEvent\u002B\\ProjetoEvent\u002B.csproj",
-              "RelativeToolTip": "ProjetoEvent\u002B.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-13T11:36:53.446Z",
               "EditorCaption": ""
             }
           ]

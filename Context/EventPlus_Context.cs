@@ -13,13 +13,13 @@ namespace ProjetoEvent_.Context
         {
         }
 
-        public DbSet<ComentariosEventos> ComentarioEventos { get; set; }
-        public DbSet<Eventos> Eventos { get; set; }
+        public DbSet<ComentarioEvento> ComentarioEventos { get; set; }
+        public DbSet<Evento> Eventos { get; set; }
         public DbSet<Instituicoes> Instituicoes { get; set; }
-        public DbSet<PresencasEventos> PresencasEventos { get; set; }
-        public DbSet<TiposEventos> TiposEventos { get; set; }
-        public DbSet<TiposUsuarios> TiposUsuarios { get; set; }
-        public DbSet<Usuarios> Usuarios { get; set; }
+        public DbSet<Presenca> Presencas { get; set; }
+        public DbSet<TipoEvento> TipoEventos { get; set; }
+        public DbSet<TipoUsuario> TipoUsuarios { get; set; }
+        public DbSet<Usuario> Usuarios { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
