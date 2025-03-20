@@ -71,11 +71,12 @@ namespace ProjetoEvent_.Controllers
 
         // buscar por id
         [HttpGet("BuscarPorId/{id}")]
-        public IActionResult GetById(Guid id, TipoEvento tipoEvento)
+        public IActionResult GetById(Guid id)
         {
             try
             {
                 TipoEvento tipoEventoBuscado = _tipoEventoRepository.BuscarPorId(id);
+
                 return Ok(tipoEventoBuscado);
             }
             catch (Exception e)

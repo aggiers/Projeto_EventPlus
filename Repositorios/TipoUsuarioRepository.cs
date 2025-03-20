@@ -20,9 +20,10 @@ namespace ProjetoEvent_.Repositorios
             try
             {
                 TipoUsuario tipoUsuarioBuscado = _context.TipoUsuarios.Find(id)!;
+
                 if (tipoUsuarioBuscado != null)
                 {
-                    tipoUsuarioBuscado.IdTipoUsuario = tipoUsuario.IdTipoUsuario;
+    
                     tipoUsuarioBuscado.TituloTipoUsuario = tipoUsuario.TituloTipoUsuario;
                 }
 
@@ -40,6 +41,7 @@ namespace ProjetoEvent_.Repositorios
             try
             {
                 TipoUsuario tipoUsuarioBuscado = _context.TipoUsuarios.Find(id)!;
+
                 return tipoUsuarioBuscado;
             }
             catch (Exception)

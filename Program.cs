@@ -15,6 +15,7 @@ builder.Services.AddDbContext<EventPlus_Context>(options =>
 // adicionar o repositorio e a interface ao container de injecao de dependencia
 builder.Services.AddScoped<ITipoEventoRepository, TipoEventoRepository>();
 builder.Services.AddScoped<ITipoUsuarioRepositoy, TipoUsuarioRepository>();
+builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
 
 // adicionar o serviço de Controllers 
 builder.Services.AddControllers();

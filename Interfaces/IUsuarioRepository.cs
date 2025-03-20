@@ -7,6 +7,7 @@ namespace ProjetoEvent_.Interfaces
         void Cadastrar(Usuario usuario);
         Usuario BuscarPorId(Guid id);
         Usuario BuscarPorEmailESenha(string Email, string Senha);
+        List<Usuario> ListarPorTipo(Guid idTipoUsuario);
 
     }
 }

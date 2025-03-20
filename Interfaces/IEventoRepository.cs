@@ -16,6 +16,6 @@ namespace ProjetoEvent_.Interfaces
 
         List<Evento> ProximosEventos();
 
-        List<Evento> ListarPorId (Guid id);
+        List<Evento> ListarPorId (Guid idTipoUsuario, Guid idTipoEvento);
     }
 }

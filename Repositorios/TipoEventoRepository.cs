@@ -20,12 +20,10 @@ namespace ProjetoEvent_.Repositorios
 
                 if (tipoEventoBuscado != null)
                 {
-                    tipoEventoBuscado.IdTipoEvento = tipoEvento.IdTipoEvento;
-                    tipoEventoBuscado.TituloTipoEvento = tipoEvento.TituloTipoEvento;
-
-                    _context.TipoEventos.Update(tipoEventoBuscado);
-                    _context.SaveChanges();
+                   tipoEventoBuscado.TituloTipoEvento = tipoEvento.TituloTipoEvento;
                 }
+
+                _context.SaveChanges();
             }
             catch (Exception)
             {
@@ -33,10 +31,21 @@ namespace ProjetoEvent_.Repositorios
             }
         }
 
+
+        // buscar evento por id
         public TipoEvento BuscarPorId(Guid id)
         {
-            TipoEvento tipoEventoBuscado = _context.TipoEventos.Find(id)!;
-            return tipoEventoBuscado;
+            try
+            {
+                TipoEvento tipoEventoBuscado = _context.TipoEventos.Find(id)!;
+
+                return tipoEventoBuscado;
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
 
         public void Cadastrar(TipoEvento tipoEvento)
