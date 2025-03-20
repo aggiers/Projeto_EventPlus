@@ -8,40 +8,39 @@ namespace ProjetoEvent_.Controllers
     [Route("api/[controller]")]
     [ApiController]
     [Produces("application/json")]
-    public class TipoEventoController : ControllerBase
+    public class TipoUsuarioController : ControllerBase
     {
-        private readonly ITipoEventoRepository _tipoEventoRepository;
-        public TipoEventoController(ITipoEventoRepository tipoEventoRepository)
+        private readonly ITipoUsuarioRepositoy _tipoUsuarioRepository;
+
+        public TipoUsuarioController(ITipoUsuarioRepositoy tipoUsuarioRepository)
         {
-            _tipoEventoRepository = tipoEventoRepository;
+            _tipoUsuarioRepository = tipoUsuarioRepository;
         }
 
 
-        // cadastrar
+        //cadastrar
         [HttpPost]
-        public IActionResult Post(TipoEvento tipoEvento)
+        public IActionResult Post(TipoUsuario tipoUsuario)
         {
             try
             {
-                _tipoEventoRepository.Cadastrar(tipoEvento);
-
-                return Created();
+                _tipoUsuarioRepository.Cadastrar(tipoUsuario);
+                return StatusCode(201, tipoUsuario);
             }
-            catch (Exception e)
+            catch (Exception error)
             {
-
-                return BadRequest(e.Message);
+                return BadRequest(error.Message);
             }
         }
-   
 
-        // detelar
+
+        //deletar
         [HttpDelete("{id}")]
         public IActionResult DeleteById(Guid id)
         {
             try
             {
-                _tipoEventoRepository.Deletar(id);
+                _tipoUsuarioRepository.Deletar(id);
                 return NoContent();
             }
             catch (Exception)
@@ -51,15 +50,16 @@ namespace ProjetoEvent_.Controllers
             }
         }
 
-        
-        // listar
+
+
+        //listar
         [HttpGet]
         public IActionResult Get()
         {
             try
             {
-                List<TipoEvento> listaDeEventos = _tipoEventoRepository.Listar();
-                return Ok(listaDeEventos);
+                List<TipoUsuario> listaDosUsuarios = _tipoUsuarioRepository.Listar();
+                return Ok(listaDosUsuarios);
             }
             catch (Exception e)
             {
@@ -69,14 +69,15 @@ namespace ProjetoEvent_.Controllers
         }
 
 
-        // buscar por id
+
+        //buscar por id 
         [HttpGet("BuscarPorId/{id}")]
-        public IActionResult GetById(Guid id, TipoEvento tipoEvento)
+        public IActionResult GetById(Guid id)
         {
             try
             {
-                TipoEvento tipoEventoBuscado = _tipoEventoRepository.BuscarPorId(id);
-                return Ok(tipoEventoBuscado);
+                TipoUsuario tipoUsuarioBuscado = _tipoUsuarioRepository.BuscarPorId(id);
+                return Ok(tipoUsuarioBuscado);
             }
             catch (Exception e)
             {
@@ -84,16 +85,13 @@ namespace ProjetoEvent_.Controllers
                 return BadRequest(e.Message);
             }
         }
-
-
-        // atualizar 
+        //atualizar 
         [HttpPut("{id}")]
-        public IActionResult Put(Guid id, TipoEvento tipoEvento)
+        public IActionResult Put(Guid id, TipoUsuario tiposUsuarios)
         {
             try
             {
-                _tipoEventoRepository.Atualizar(id, tipoEvento);
-
+                _tipoUsuarioRepository.Atualizar(id, tiposUsuarios);
                 return NoContent();
             }
             catch (Exception e)
@@ -101,11 +99,6 @@ namespace ProjetoEvent_.Controllers
 
                 return BadRequest(e.Message);
             }
-
         }
-
-
-
-
     }
 }

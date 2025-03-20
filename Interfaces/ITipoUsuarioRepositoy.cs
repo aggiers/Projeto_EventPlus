@@ -7,7 +7,7 @@ namespace ProjetoEvent_.Interfaces
         void Cadastrar(TipoUsuario tipoUsuario);
         void Deletar(Guid id);
         List<TipoUsuario> Listar();
-        TipoUsuario BuscarUsuarioPorId(Guid id);
+        TipoUsuario BuscarPorId(Guid id);
         void Atualizar(Guid id, TipoUsuario tipoUsuario);
     }
 }
